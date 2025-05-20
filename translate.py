@@ -1,3 +1,5 @@
+#this is a test comment to see how github works
+
 def translate_line(line):
     stripped = line.strip()
     if stripped.startswith("def"):
